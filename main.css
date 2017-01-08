@@ -1,0 +1,10 @@
+#canvas{
+  -webkit-transition: .5s;
+  -moz-transition: .5s;
+  -ms-transition:  .5s;
+  -o-transition: .5s;
+  transition: .5s;
+
+  width: 50vw;
+  height: 50vh;
+}
